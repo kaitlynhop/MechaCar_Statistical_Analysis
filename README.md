@@ -57,11 +57,14 @@ To compare the PSI values accross the lots, t-test statistical tests were ran fo
  - The final t-test, using lot 3 sample PSI values (image 7), shows a p value of less than 0.05. This would lead us to reject our null hypothesis and favor the alternate, the mean of the sample is significantly different from the population. 
    - This correlates with our summary stastic table (image 4) showing that the variance of PSI values in lot 3, exceeded the threshhold.
 
-## Study Design: MechaCar vs Competition
-<!-- Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test? -->
+## Study Design: MechaCar vs Competition 
+1. What metric or metrics are you going to test?
+ - In order to compare MechaCar to other options, we should evaluate its performance, durability, environmental effect, and value.efficiency, CO2 output, MSRP cost, and price of material/labor for upkeep.
+2. What is the null hypothesis or alternative hypothesis?
+ - Null hypothesis is that there is no significant difference in metric measures between MechCar and competition.
+ - Alternate hypothesis is that there is a significant difference in metric measures between MechCar and competition.
+3. What statistical test would you use to test the hypothesis? And why?
+ - The ANOVA test will be used to evaluate data metrics across multiple vehicles. ANOVA is used to measure the variance of means across multiple factors. We would use the ANOVA test to measure the means of each metric data as our dependent variable, across MechaCar and its competitors, as our independent variable with multiple groups. 
+4. What data is needed to run the statistical test? 
+ - Horsepower, brake distance, vehicle detection capabilities, recomended time to engine tune up, feul efficiency, CO2 output, MSRP cost, and price of material/labor for upkeep.
 
