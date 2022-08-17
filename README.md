@@ -1,8 +1,8 @@
 # MechaCar Statistical Analysis
 
 ### Resources
-**Data source:** [Vehicle MPG Data](/Data/MechaCar_mpg.csv), [Manufacturing PSI Data](/Data/Suspension_Coil.csv)
-**Tools:** RStudio, R, Tidyverse
+**Data source:** [Vehicle MPG Data](/Data/MechaCar_mpg.csv), [Manufacturing PSI Data](/Data/Suspension_Coil.csv)<br>
+**Tools:** RStudio, R, Tidyverse<br>
 **Analysis:** [RScript File](/MechaCarChallenge.RScript.R)
 
 ## Linear Regression to Predict MPG
@@ -47,7 +47,7 @@ To compare the lots mean, t-test statistical test were ran for the total cars an
 <br>![Image link](/Images/t.test_all.png)
 <br>
 <br>**Image 6. Lot 1 vs Total T-Test**
-<br>![Image link](/Images/t.test_lot1.png
+<br>![Image link](/Images/t.test_lot1.png)
 <br>
 <br>**Image 7. Lot 2 vs Total T-Test**
 <br>![Image link](/Images/t.test_lot2.png)
